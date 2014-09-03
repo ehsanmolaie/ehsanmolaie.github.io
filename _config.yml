@@ -37,15 +37,15 @@ social:
     desc:	Add me on google+
 
   - icon:	feed
-    url:	http://camporez.com/atom.xml
+    url:	http://ehsanmolaie.ir/atom.xml
     desc:	Subscribe to my feed
     
 menu:
-  - title:	Home
+  - title:	خانه
     url:	/
     
-  - title:	About
-    url:	/about
+  - title:	درباره
+    url:	http://about.com/ehsan.molaie
     
 copyright:
   author:	احسان مولایی
