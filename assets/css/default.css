@@ -1,3 +1,12 @@
+/*RTLing*/
+body { direction: rtl; }
+#post-list { left: auto; right: 50%; margin-left: auto ; margin-right: -350px; }
+.menu { left: auto; right: 12px; padding-left: auto; padding-right: 5px; }
+.menu-content { left: auto; right: 12px; }
+
+/*--------------------*/
+
+
 html, body, div, span, applet, object, iframe, caption, p {
 	margin: 0 0 0 0;
 	border: 0 0 0 0;
