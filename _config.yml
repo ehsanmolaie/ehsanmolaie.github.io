@@ -6,16 +6,16 @@ highlighter:	pygments
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		احسان‌نوشت
 tagline:	'blog'
-description:	'My personal blog.'
+description:	'تارنمای شخصی'
 url:		http://camporez.com
 commentsystem:	google
 disqus:		example
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'احسان مولایی'
+  url:		https://about.me/ehsan.molaie
 
 paginate:	5
 
@@ -25,15 +25,15 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/EhsanMolaie
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/EhsanMolaie
     desc:	Fork me on github
 
   - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
+    url:	https://plus.google.com/109424431360251307220
     desc:	Add me on google+
 
   - icon:	feed
