@@ -4,6 +4,7 @@ body { direction: rtl; }
 .menu { left: auto; right: 12px; padding-left: auto; padding-right: 5px; }
 .menu-content { left: auto; right: 12px; }
 .site-icon-small { margin-right: auto; margin-left: 10px; }
+.menu span { margin-left: auto; margin-right: 5px; }
 
 /*--------------------*/
 
