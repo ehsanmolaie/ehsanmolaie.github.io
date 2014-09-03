@@ -1,9 +1,5 @@
 @import url(default.css);
 
-/*RTLing*/
-#post-info { left: auto; right: 50%; margin-left: auto ; margin-right: -350px; }
-/*-----------------*/
-
 header, footer {
 	background-attachment: fixed;
 }
