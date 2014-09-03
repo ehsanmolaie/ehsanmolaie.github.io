@@ -9,7 +9,7 @@ permalink:	/blog/:title
 title:		احسان‌نوشت
 tagline:	'blog'
 description:	'تارنمای شخصی'
-url:		http://camporez.com
+url:		http://ehsanmolaie.ir
 commentsystem:	google
 disqus:		example
 
@@ -54,4 +54,4 @@ copyright:
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
 
 # Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
-google_analytics:
+google_analytics: 
