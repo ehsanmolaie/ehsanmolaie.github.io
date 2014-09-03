@@ -1,10 +1,10 @@
 /*RTLing*/
 body { direction: rtl; }
 #post-list { left: auto; right: 50%; margin-left: auto ; margin-right: -350px; }
-.menu { left: auto; right: 12px; padding-left: auto; padding-right: 5px; }
-.menu-content { left: auto; right: 12px; }
+.menu { left: auto !important; right: 12px; padding-left: auto; padding-right: 5px; }
+.menu-content { left: auto !important; right: 12px; }
 .site-icon-small { margin-right: auto; margin-left: 10px; }
-.menu span { margin-left: auto; margin-right: 5px; }
+.menu span { margin-left: auto !important; margin-right: 5px; }
 
 /*--------------------*/
 
